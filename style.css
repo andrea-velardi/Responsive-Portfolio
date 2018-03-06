@@ -1,0 +1,170 @@
+*{box-sizing: border-box;
+
+}
+
+body{
+background-color: #777; 
+}
+
+li {
+
+display: inline;
+
+}
+
+a:link{
+text-decoration: none; 
+}
+
+h1{
+
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center; 
+    padding: 10px; 
+    background-color: #bae; 
+    width: 240px;
+    height: 90px; 
+    float: left; 
+    margin-top: 0px; 
+    margin-left: 100px; 
+}
+
+h2{
+    text-decoration: underline; 
+}
+
+
+
+#About_Me{
+
+    font-family: Arial, Helvetica, sans-serif; 
+    padding: 20px; 
+    background-color: peachpuff; 
+    width: 650px; 
+    margin-left: 200px; 
+    
+}
+
+#profilepic{
+
+    float: right; 
+    padding: 5px; 
+}
+
+.clearfix {
+    overflow: auto; 
+}
+
+footer{
+
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center; 
+    padding: 20px; 
+    background-color: peachpuff; 
+
+} 
+
+*{box-sizing: border-box;
+  
+}
+
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center; 
+        padding: 10px; 
+        background-color: #bae; 
+        width: 240px;
+        height: 90px; 
+        float: left; 
+        margin-top: 0px; 
+        margin-left: 100px; 
+    }
+    h2{
+        text-decoration: underline; 
+    }
+    #nav1{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: right; 
+        padding: 20px;
+        background: peachpuff;
+      
+    }
+    #nav2{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center; 
+        padding: 20px; 
+        background-color: peachpuff; 
+        width: 270px; 
+        float: right; 
+        margin-right: 240px; 
+        margin-top: 20px; 
+    }
+    .mywork{
+        font-family: Arial, Helvetica, sans-serif; 
+        padding: 20px; 
+        background-color: peachpuff; 
+        width: 650px; 
+        margin-left: 200px; 
+        text-align: center;  
+    }
+
+    #image1 {
+    display: inline-block;
+    height: 30px;
+    
+    }
+    #image2 {
+    display: inline-block;
+    height: 30px;
+    
+    }
+
+    #image3 {
+    display: inline-block;
+    height: 30px;
+    
+    }
+
+    #image4 {
+    display: inline-block;
+    height: 30px;
+    
+    }
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+
+@media screen and (max-width: 980px) {
+    .maincontent{
+        width: 100%; 
+    }
+
+    }
+
+@media screen and (max-width: 980px) {
+    .maincontent{
+        width: 100%; 
+    }
+    
+    }
+
+@media screen and (max-width: 768px) {
+    .maincontent{
+        width: 100%; 
+    }
+    
+    }
+    
+@media screen and (max-width: 680px) {
+    .mywork{
+        width: 100%; 
+        }
+        
+    }
+
+
+
